@@ -1,3 +1,6 @@
+# This Fork
+This is a fork that adds some little stuff that I have been continually adding, like colors...
+
 # promptui
 
 Interactive prompt for command-line applications.
